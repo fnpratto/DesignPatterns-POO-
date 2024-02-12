@@ -1,5 +1,5 @@
 # Design Patterns
-The goal is to add basic projects and try to refactor them.
+The goal is to add basic projects and try to refactor them. (maybe UML)
 
 The Design Patterns Catalog:
 ## Creational
@@ -16,8 +16,8 @@ Structural patterns concern class and object composition. They use inheritance t
 
 - [Adapter](https://refactoring.guru/es/design-patterns/adapter)  allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class.
 - [Bridge ](https://refactoring.guru/es/design-patterns/bridge)decouples an abstraction from its implementation so that the two can vary independently.
-- [Composite](https://refactoring.guru/es/design-patterns/composite) composes zero-or-more similar objects so that they can be manipulated as one object.
-- [Decorator](https://refactoring.guru/es/design-patterns/decorator) dynamically adds/overrides behavior in an existing method of an object.
+- [Composite](https://refactoring.guru/es/design-patterns/composite) composes zero-or-more similar objects so that they can be manipulated as one object. 
+- [Decorator](https://refactoring.guru/es/design-patterns/decorator) dynamically adds/overrides behavior in an existing method of an object.(([Decorator by essaya ](https://github.com/algoritmos3ce/Ejercicios/blob/main/src/main/java/PatronesDeDise%C3%B1o/Cafe/Solucion.md)))
 - [Facade](https://refactoring.guru/es/design-patterns/facade) provides a simplified interface to a large body of code.
 - [Flyweight](https://refactoring.guru/es/design-patterns/flyweight) reduces the cost of creating and manipulating a large number of similar objects.
 - [Proxy](https://refactoring.guru/es/design-patterns/proxy) provides a placeholder for another object to control access, reduce cost, and reduce complexity.
@@ -31,8 +31,10 @@ Most behavioral design patterns are specifically concerned with communication be
 - [Iterator](https://refactoring.guru/es/design-patterns/iterator) accesses the elements of an object sequentially without exposing its underlying representation.
 - [Mediator](h) allows loose coupling between classes by being the only class that has detailed knowledge of their methods.
 - [Memento](h) provides the ability to restore an object to its previous state (undo).
-- [Observer](https://refactoring.guru/es/design-patterns/observer) is a publish/subscribe pattern, which allows a number of observer objects to see an event.
+- [Observer](https://refactoring.guru/es/design-patterns/observer) is a publish/subscribe pattern, which allows a number of observer objects to see an event.(([Observer by essaya ](https://github.com/algoritmos3ce/Ejercicios/blob/main/src/main/java/PatronesDeDise%C3%B1o/Sensores/Solucion.md)))
 - [State](h) allows an object to alter its behavior when its internal state changes.
-- [Strategy](https://refactoring.guru/es/design-patterns/strategy) allows one of a family of algorithms to be selected on-the-fly at runtime.
-- [Template method](h) defines the skeleton of an algorithm as an abstract class, allowing its subclasses to provide concrete behavior.
-- [Visitor](https://refactoring.guru/es/design-patterns/visitor)  separates an algorithm from an object structure by moving the hierarchy of methods into one object.
+- [Strategy](https://refactoring.guru/es/design-patterns/strategy) allows one of a family of algorithms to be selected on-the-fly at runtime. (([Strategy by essaya ](https://github.com/algoritmos3ce/Ejercicios/tree/main/src/main/java/PatronesDeDise%C3%B1o/Futbol#readme)))
+- [Template method](h) defines the skeleton of an algorithm as an abstract class, allowing its subclasses to provide concrete behavior.([Template Method by essaya
+](https://github.com/algoritmos3ce/Ejercicios/blob/main/src/main/java/PatronesDeDise%C3%B1o/Impresoras/Solucion.md))
+- [Visitor](https://refactoring.guru/es/design-patterns/visitor)  separates an algorithm from an object structure by moving the hierarchy of methods into one object.(([Visitor by essaya 
+](https://github.com/algoritmos3ce/Ejercicios/blob/main/src/main/java/PatronesDeDise%C3%B1o/Figuras/Solucion.md))
