@@ -1,6 +1,8 @@
 # Design Patterns
 The goal is to add basic projects and try to refactor them. (maybe UML)
 
+jk the goal is pass algo3
+
 The Design Patterns Catalog:
 ## Creational
 Creational patterns are ones that create objects, rather than having to instantiate objects directly. This gives the program more flexibility in deciding which objects need to be created for a given case.

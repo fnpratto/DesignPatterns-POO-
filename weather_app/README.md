@@ -6,8 +6,8 @@ Para formatear el JSON: https://jsoneditoronline.org/
 Info extra sobre API Y JSON
 castear
 
-![](extra_info(API)/Captura de pantalla 2024-02-22 180228.jpg)
+![Texto Alternativo](extra_info(API)/Captura%20de%20pantalla%202024-02-22%20180228.jpg)
 
-![](extra_info(API)/Captura de pantalla 2024-02-22 180300.jpg)
+![captura de pantalla](extra_info(API)/Captura%20de%20pantalla%202024-02-22%20180300.jpg)
 
-![](extra_info(API)/Captura de pantalla 2024-02-22 180944.jpg)
+![captura de pantalla](extra_info(API)/Captura%20de%20pantalla%202024-02-22%20180944.jpg)
