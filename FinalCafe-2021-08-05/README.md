@@ -28,3 +28,5 @@ Todos pueden pedirse con vaso **para llevar**, o el cliente puede traer **su vas
 2. Diagrama de clases (completo) que corresponden a los diagramas de secuencia.
 
 //Le agregamos codigo ;)
+
+Se uso patron Strategy pero tambien se puede usar Observer (mirar headfirst)
