@@ -1,4 +1,5 @@
-Enunciado: Algo Mail
+## Enunciado: Algo Mail
+
 Requerimientos funcionales:
 La facultad está implementando el mecanismo de inicio de sesión de un cliente. Este mail tiene varios mecanismos de autenticación, a saber:
 
@@ -30,4 +31,10 @@ Escribir el código necesario para:
 - Diagrama de clases (completo) que corresponden a los diagramas de secuencia.
 
 
-link al resuelto de sanchez: https://github.com/fiuba/algo3_finales/tree/master/2021-04-22 
+### link al resuelto de sanchez:
+ https://github.com/fiuba/algo3_finales/tree/master/2021-04-22 
+
+### Fe de erratas
+- En los diagramas falta mandar el mail y arreglar que todos sean void --> booelanps
+- Chequiar plus es un metodo abstracto que cada decorator implementa
+- Agregar 1..* relacion
